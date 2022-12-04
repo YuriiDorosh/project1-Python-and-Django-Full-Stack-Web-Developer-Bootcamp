@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    background-image: url(https://images.hdqwalls.com/wallpapers/the-valley-minimal-4k-9y.jpg);
+    color: antiquewhite;
+    border: 10px solid #990099;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+#sign{
+    background-color: plum;
+}
+
+#sub{
+    background-color: #990099;
+    margin: 4px;
+    margin-top: 10px;
+    color: antiquewhite;
+    border-radius: 3px;
+}
